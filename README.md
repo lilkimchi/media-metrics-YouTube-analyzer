@@ -7,8 +7,8 @@ Create a business intelligence dashboard with multi-channel metrics to compare K
 This was inspired by a project I was working on for ARTE as an analyst and consultant. I wanted to automate tasks to tidy data, unify it into one stakeholder reporting tool, and  use data sources available to analyze content performance. I extracted channel and video statistics with the help of the YT Data API and performed sentiment analysis to find how viewers felt about videos and content.
 
 ## Viewer Metrics Dashboard
-![image of dashboard]
-(
+![](visualizations/TV_metrics.png)
+
 ## Features
 1. Compare channel KPIs such as video count, views, duration, un-/clickable link count and video tags and show visualizations<br/>
 2. Analyse video comments and sentiments 
