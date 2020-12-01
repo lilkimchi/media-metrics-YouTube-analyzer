@@ -11,7 +11,7 @@ This was inspired by a project I was working on for ARTE as an analyst and consu
 2. Analyse video comments and sentiments 
 
 ## Installation and Requirements
-You need the YouTube API key for this (I don't include mine)
+You need the YouTube API key for this (I don't include mine)<b/>
 https://developers.google.com/youtube/v3/getting-started
 https://console.developers.google.com/
 
