@@ -14,7 +14,7 @@ This was inspired by a project I was working on for ARTE as an analyst and consu
 <img src='visualizations/TV_metrics.png' width=700>
 
 ## YouTube Statistics and Sentiment Analysis
-<img src='Weighted_words_Eine_uberschatze_Spezies.png' width=700>
+<img src='visualizations/Weighted_words_Eine_uberschatze_Spezies.png' width=700>
 
 ## Installation and Requirements
 You need the YouTube API key for this (I don't include mine)<br/>
