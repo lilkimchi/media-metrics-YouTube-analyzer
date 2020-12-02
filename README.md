@@ -18,8 +18,12 @@ https://console.developers.google.com/
 ## Viewer Metrics Dashboard
 <img src='visualizations/TV_metrics.png' width=700>
 
-## YouTube Statistics and Sentiment Analysis
-<img src='visualizations/Sentiment.score.png' width=700>
+## Sentiment Analysis on YouTube Comments
+Bigram to count the frequencies of 2 consecutive words in comments
+<img src='visualizations/Bigram_Frequency.png' width=700>
+
+Weighted words in video comments
+<img src='visualizations/Sentiment_score.png' width=700>
 
 ## Tech Stack
 Python, pandas, numpy, sklearn, nltk, vadersentiment,TabPy, Tableau (Community edition)
