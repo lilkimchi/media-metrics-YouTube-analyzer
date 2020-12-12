@@ -26,4 +26,4 @@ Weighted words in video comments
 <img src='visualizations/Sentiment_score.png' width=500>
 
 ## Tech Stack
-Python, pandas, numpy, sklearn, nltk, vadersentiment,TabPy, Tableau (Community edition)
+Python, pandas, numpy, sklearn, nltk, vadersentiment,TabPy, Tableau Public
