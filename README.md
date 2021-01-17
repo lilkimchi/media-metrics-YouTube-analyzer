@@ -22,8 +22,6 @@ https://developers.google.com/youtube/v3/getting-started <br/>
 https://console.developers.google.com/
 
 ## Viewer Metrics Dashboard
-<img src='visualizations/TV_metrics.png' width=700>
-
 <img src='visualizations/views2.gif' width=700>
 
 <img src='visualizations/views.gif' width=500>
@@ -34,6 +32,9 @@ Bigram to count the frequencies of 2 consecutive words in comments<br/>
 
 ## Weighted words in video comments
 <img src='visualizations/Sentiment_score.png' width=500>
+
+<img src='visualizations/TV_metrics.png' width=700>
+
 
 ### Tech Stack
 Python, pandas, numpy, sklearn, nltk, vadersentiment,TabPy, Tableau 
