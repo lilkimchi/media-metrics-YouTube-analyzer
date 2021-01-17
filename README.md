@@ -3,7 +3,7 @@
 ## Description
 * A business intelligence dashboard using Tableau<br/> 
 * A YouTube video metrics analyzer<br/>
-** Compare channel KPIs such as video count, views, duration, un-/clickable link count and video tags<br/>
+  * Channel KPIs such as video count, views, duration, un-/clickable link count and video tags<br/>
 * NLP sentiment analysis on YouTube comments<br/> 
 
 ## Introduction
@@ -26,7 +26,7 @@ https://console.developers.google.com/
 (dashboard data is omitted here to maintain confidentiality)
 
 ## Sentiment Analysis on YouTube Comments
-Bigram to count the frequencies of 2 consecutive words in comments
+Bigram to count the frequencies of 2 consecutive words in comments<br/>
 <img src='visualizations/Bigram_Frequency.png' width=500>
 
 ### Weighted words in video comments
