@@ -14,7 +14,7 @@ I used Python to automate tasks to tidy data, unify it into one stakeholder repo
 ### Question
 What makes a program a success?
 
-A broadcast company can set itself apart by listening to what your viewers are saying. Machine learning can add value to improve content and uncover viewer sentiment. Natural language processing reveals positive, negative, or neutral attributes.
+A broadcast company can set itself apart by, instead of just broadcasting their own message, listening to what its viewers are saying. Machine learning can add value to improve content and uncover viewer sentiment. Natural language processing on video comments reveals positive, negative, or neutral attributes.
 
 ## Installation and Requirements
 You need the YouTube API key for this (I don't include mine)<br/>
