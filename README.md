@@ -26,7 +26,7 @@ https://console.developers.google.com/
 
 ## Viewer Metrics Dashboard
 <img src='visualizations/TV_metrics.png' width=700>
-(dummy data used to maintain confidentiality)
+(data is omittd here to maintain confidentiality)
 
 ## Sentiment Analysis on YouTube Comments
 Bigram to count the frequencies of 2 consecutive words in comments
