@@ -14,7 +14,7 @@ I used Python to automate tasks to tidy data, unify it into one stakeholder repo
 ### Question
 What makes a program a success?
 
-To go beyond just the number of views, be a broadcast company that goes beyond broadcasting and listen to what your viewers are saying. Machine learning can add value to improve content and uncover viewer sentiment. Natural language processing reveals positive, negative, or neutral attributes.
+A broadcast company can set itself apart by listening to what your viewers are saying. Machine learning can add value to improve content and uncover viewer sentiment. Natural language processing reveals positive, negative, or neutral attributes.
 
 ## Installation and Requirements
 You need the YouTube API key for this (I don't include mine)<br/>
@@ -33,7 +33,7 @@ Bigram to count the frequencies of 2 consecutive words in comments<br/>
 <img src='visualizations/Bigram_Frequency.png' width=500>
 
 ## Weighted words in video comments
-<img src='visualizations/Sentiment_score.png' width=600>
+<img src='visualizations/Sentiment_score.png' width=500>
 
 ### Tech Stack
 Python, pandas, numpy, sklearn, nltk, vadersentiment,TabPy, Tableau 
