@@ -25,7 +25,7 @@ https://console.developers.google.com/
 <img src='visualizations/TV_metrics.png' width=700>
 (dashboard data is omitted here to maintain confidentiality)
 
-<img src='visualizations/views.gif' width=700>
+<img src='visualizations/views.gif' width=500>
 
 ## Sentiment Analysis on YouTube Comments
 Bigram to count the frequencies of 2 consecutive words in comments<br/>
