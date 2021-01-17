@@ -1,4 +1,5 @@
 # Sentiment Analysis on YouTube Comments
+<img src='visualizations/Title.png' width=700>
 
 ## Description
 Create a business intelligence dashboard with multi-channel metrics to compare KPIs. Analyze YouTube comments using sentiment analysis
