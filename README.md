@@ -33,7 +33,8 @@ Bigram to count the frequencies of 2 consecutive words in comments<br/>
 ## Weighted words in video comments
 <img src='visualizations/Sentiment_score.png' width=500>
 
-<img src='visualizations/TV_metrics.png' width=700>
+## Dashboard with multi-channel metrics
+<img src='visualizations/TV_metrics.png' width=500>
 
 
 ### Tech Stack
