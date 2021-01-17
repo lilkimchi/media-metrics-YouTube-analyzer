@@ -3,6 +3,7 @@
 ## Description
 * A business intelligence dashboard using Tableau<br/> 
 * A YouTube video metrics analyzer<br/>
+** Compare channel KPIs such as video count, views, duration, un-/clickable link count and video tags<br/>
 * NLP sentiment analysis on YouTube comments<br/> 
 
 ## Introduction
@@ -10,14 +11,10 @@ This was inspired by a project I had previously worked on for a German-French me
 
 I used Python to automate tasks to tidy data, unify it into one stakeholder reporting tool, and to use the data sources available to analyze content performance. I extracted channel and video statistics with the help of the YouTube Data API and performed sentiment analysis to find how viewers felt about videos and content.
 
-# Question
+### Question
 What makes a program a success?
 
 To go beyond just the number of views, be a broadcast company that goes beyond broadcasting and listen to what your viewers are saying. Machine learning can add value to improve content and uncover viewer sentiment. Natural language processing reveals positive, negative, or neutral attributes.
-
-## Features
-1. Compare channel KPIs such as video count, views, duration, un-/clickable link count and video tags<br/>
-2. Analyze video comments and sentiments 
 
 ## Installation and Requirements
 You need the YouTube API key for this (I don't include mine)<br/>
@@ -32,7 +29,7 @@ https://console.developers.google.com/
 Bigram to count the frequencies of 2 consecutive words in comments
 <img src='visualizations/Bigram_Frequency.png' width=500>
 
-# Weighted words in video comments
+### Weighted words in video comments
 <img src='visualizations/Sentiment_score.png' width=600>
 
 ## Tech Stack
