@@ -29,8 +29,8 @@ https://console.developers.google.com/
 Bigram to count the frequencies of 2 consecutive words in comments<br/>
 <img src='visualizations/Bigram_Frequency.png' width=500>
 
-### Weighted words in video comments
+## Weighted words in video comments
 <img src='visualizations/Sentiment_score.png' width=600>
 
-## Tech Stack
+### Tech Stack
 Python, pandas, numpy, sklearn, nltk, vadersentiment,TabPy, Tableau 
