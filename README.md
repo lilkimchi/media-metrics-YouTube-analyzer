@@ -23,7 +23,8 @@ https://console.developers.google.com/
 
 ## Viewer Metrics Dashboard
 <img src='visualizations/TV_metrics.png' width=700>
-(dashboard data is omitted here to maintain confidentiality)
+
+<img src='visualizations/views2.gif' width=500>
 
 <img src='visualizations/views.gif' width=500>
 
