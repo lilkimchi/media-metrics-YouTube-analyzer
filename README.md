@@ -8,12 +8,12 @@
 ## Introduction
 This was inspired by a project I had previously worked on for a German-French media company as an analyst and consultant to help them make more data-informed decisions. This time, I wanted to take the data possibilities further with the power of Python and machine learning!
 
-I used Python to automate tasks: to tidy data, unify it into one stakeholder reporting tool, and to use the data sources available to analyze content performance. I extracted channel and video statistics with the help of the YouTube Data API and performed sentiment analysis to find how viewers felt about videos and content.
+I used Python to automate tasks to tidy data, unify it into one stakeholder reporting tool, and to use the data sources available to analyze content performance. I extracted channel and video statistics with the help of the YouTube Data API and performed sentiment analysis to find how viewers felt about videos and content.
 
 # Question
 What makes a program a success?
 
-To go beyond just the number of views, be a broadcast company that goes beyond broadcasting and instead listen to what your viewers are saying. Machine learning can add value to improve content and uncover viewer sentiment. Natural language processing reveals positive, negative, or neutral attributes.
+To go beyond just the number of views, be a broadcast company that goes beyond broadcasting and listen to what your viewers are saying. Machine learning can add value to improve content and uncover viewer sentiment. Natural language processing reveals positive, negative, or neutral attributes.
 
 ## Features
 1. Compare channel KPIs such as video count, views, duration, un-/clickable link count and video tags<br/>
@@ -26,14 +26,14 @@ https://console.developers.google.com/
 
 ## Viewer Metrics Dashboard
 <img src='visualizations/TV_metrics.png' width=700>
-(data is omittd here to maintain confidentiality)
+(dashboard data is omitted here to maintain confidentiality)
 
 ## Sentiment Analysis on YouTube Comments
 Bigram to count the frequencies of 2 consecutive words in comments
 <img src='visualizations/Bigram_Frequency.png' width=500>
 
-#Weighted words in video comments
-<img src='visualizations/Sentiment_score.png' width=700>
+# Weighted words in video comments
+<img src='visualizations/Sentiment_score.png' width=600>
 
 ## Tech Stack
 Python, pandas, numpy, sklearn, nltk, vadersentiment,TabPy, Tableau 
