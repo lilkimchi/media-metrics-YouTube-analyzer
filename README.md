@@ -3,7 +3,7 @@
 ## Description
 * A business intelligence dashboard using Tableau<br/> 
 * A YouTube video metrics analyzer<br/>
-  * Channel KPIs such as video count, views, duration, un-/clickable link count and video tags<br/>
+  * Channel KPIs such as video count, likes, dislikes, views, duration, and video tags<br/>
 * NLP sentiment analysis on YouTube comments<br/> 
 
 ## Introduction
