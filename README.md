@@ -9,7 +9,7 @@
 ## Introduction
 This was inspired by a project I had previously worked on for a German-French media company as an analyst and consultant to help them make more data-informed decisions. This time, I wanted to take the data possibilities further with the power of Python and machine learning!
 
-I used Python to automate tasks to tidy data, unify it into one stakeholder reporting tool, and to use the data sources available to analyze content performance. I extracted channel and video statistics with the help of the YouTube Data API and performed sentiment analysis to find how viewers felt about videos and content.
+I used Python and Pandas to automate tasks to tidy data, unify it into one stakeholder reporting tool, and to use the data sources available to analyze content performance. I extracted channel and video statistics with the help of the YouTube Data API and performed sentiment analysis to find how viewers felt about videos and content.
 
 ### Question
 What makes a program a success?
